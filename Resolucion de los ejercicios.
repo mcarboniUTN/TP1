@@ -3,9 +3,10 @@ TP1
 
 Para la conversion de KM/h a M/s Se pide al usuario que se ingrese un valor el cual luego es divido por 3.6 para darnos su resultado en metros sobre segundos.
 
-En la parte dos se pide al usuario que ingrese las pendientes y ordenadas de cada recta, luego con un condicional if nos fijamos si las pendientes y
+En la parte dos se pide al usuario que ingrese las pendientes y ordenadas de cada recta, luego con un condicional if nos fijamos si las pendientes y 
 ordenadas de las rectas son iguales, en caso de ser iguales quiere decir que tienen puntos de interseccion infinitos ya que son iguales, se introduce un 
-condicional if para el caso de que las rectas sean paralelas (misma pendiente, distinta ordenada) y en caso de no ser ninguna de las anteriores se procede 
-a hacer la igualacion de las rectas dando como resultado su interseccion.
+condicional if para el caso de que las rectas sean paralelas (misma pendiente, distinta ordenada) y en caso de no ser ninguna de las anteriores se procede a 
+hacer la igualacion de las rectas dando como resultado su interseccion. Para realizar la igualación se hacen los pasajes de términos por medio de operaciones, 
+al igual que haríamos en una cuenta convencional.
 
 En JS y C++ el condicional if se utiliza de la misma manera, con la unica diferencia que la declaracion de la variables se hacen diferente en cada uno.
